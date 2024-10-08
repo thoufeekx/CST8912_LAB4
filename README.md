@@ -201,10 +201,3 @@ This lab deepened my understanding of managing cloud-based SQL databases and dat
 
 ---
 
-## Reference YouTube Videos:
-
-- Azure SQL Database Tutorial: [Watch Here](https://www.youtube.com/watch?v=p7X8lH_XMtI)
-- Azure Data Factory Overview: [Watch Here](https://www.youtube.com/watch?v=v54UCzJJAYY)
-- AWS vs. Azure Comparison: [Watch Here](https://www.youtube.com/watch?v=eIvbUU8VH30)
-
----
