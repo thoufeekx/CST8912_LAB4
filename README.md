@@ -167,7 +167,6 @@ Deploy an Azure Data Factory and launch its studio:
 
 ---
 
-Please add these details in your `README.md` and ensure that the images are properly named and placed in the `Images` folder. Let me know if any further adjustments are needed!
 
 ### 15. Cleanup
 
